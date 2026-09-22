@@ -1,11 +1,10 @@
-# Hi, I'm Saad Mohammad 👋
-
-Third-year Honours Computer Science student at Sheridan College, specializing in Data Analytics. I like building things end to end, database to interface, and I learn best by actually shipping something rather than just reading about it.
+Third-year Honours Computer Science student at Sheridan College, specializing in Data Analytics, currently interning as a Full-Stack Developer at Cloud2 Software. I like building things end to end, database to interface, and I learn best by actually shipping something rather than just reading about it.
 
 ## What I work with
-- **Languages:** Python, C#, JavaScript, SQL, R
+- **Languages:** Python, C#, JavaScript, TypeScript, SQL, R, Java
 - **Data & Analytics:** SQL, Power BI, Pandas, Scikit-learn, statistical analysis
-- **Web:** Node.js, Express, REST APIs, MySQL, React Native, systems design with UML
+- **Web:** React, TypeScript, Node.js, Express, GraphQL, REST APIs, MySQL, MongoDB, React Native, systems design with UML
+- **Testing & DevOps:** JUnit, Jest, Playwright, Docker, Jenkins, SonarQube, Git
 - **Currently exploring:** Generative AI application development — direct LLM API integration, prompt engineering, and evaluating AI output critically rather than trusting it by default
 
 ## A few things I've built
